@@ -28,7 +28,7 @@ twitter_username: AchyutaBot
 github_username:  jekyll
 
 # Build settings
-theme: Parchment
+theme: tactile
 plugins:
   - jekyll-feed
 
