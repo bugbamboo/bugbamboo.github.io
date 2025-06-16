@@ -19,5 +19,3 @@ Hi, I'm Achyuta! I just wrapped up my first year studying physics at MIT. Curren
        alt="meow"
        width="230">
 </div>
-
-*i look cool in these photos, or at least my mom thinks so*
