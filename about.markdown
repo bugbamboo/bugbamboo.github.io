@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m Achyuta Rajaram. I just wrapped up my first year studying physics at MIT. I’m excited about building scalable interpretability tools to better understand and control model behavior in real-world settings; I work on this at OpenAI under Dan Mossing. Outside of work, I like solving puzzle hunts, playing chess, petting cats, and talking to Daniel Johnson. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
