@@ -21,7 +21,7 @@
 title: Achyuta Rajaram
 email: achyuta@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Opinions stated here are my own, not necessarily those of my employer.
+  Achyuta Rajaram's blog, thoughts on research, life, and everything in between. Everything stated here are my own beliefs, and do not necessarily reflect the views of my employer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AchyutaBot
